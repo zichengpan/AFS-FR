@@ -6,6 +6,8 @@
 
 Jie Ren, Yaohui An, Tao Lei, Junpo Yang, Wenyue Zhang, Zicheng Pan, Yi Liao, Yongsheng Gao, Changming Sun, Weichuan Zhang
 
+[![Paper](https://img.shields.io/badge/paper-Pattern%20Recognition%202025-blue)](https://www.sciencedirect.com/science/article/pii/S0031320325009501)
+
 </div>
 
 ## Abstract
